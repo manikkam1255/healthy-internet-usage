@@ -1,0 +1,6 @@
+{
+  "name": "Healthy Internet Usage Tracker",
+  "description": "A mindful digital wellbeing application featuring live internet speed monitoring, screen time analytics, goals, smart alerts, AI behavior insights, and weekly reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
